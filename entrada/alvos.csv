@@ -1,0 +1,13 @@
+id,nome,corpo,caminho_geotiff,fonte,resolucao_nativa_m,lat_centro,lon_centro,metodo
+moon_haworth,Haworth,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-86.764,-22.78,janela
+moon_malapert_massif,Malapert Massif,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-85.995,-0.24,janela
+moon_mons_mouton_plateau,Mons Mouton Plateau,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-85.427,31.74,janela
+moon_nobile_rim_2,Nobile Rim 2,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-83.954,58.82,janela
+moon_de_gerlache_rim,de Gerlache Rim,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-88.683,-67.93,janela
+moon_connecting_ridge,Connecting Ridge,MOON,https://pgda.gsfc.nasa.gov/data/LOLA_20mpp/LDEM_80S_20MPP_ADJ.TIF,NASA PGDA LOLA LDEM 80S 20mpp ADJ,20,-89.463,-137.49,janela
+mars_jezero,Jezero (Perseverance),MARS,entrada/M20_JezeroCrater_CTXDEM_20m.tif,USGS Mars 2020 CTX DEM 20m,20,,,janela_centro_geotiff
+mars_gale,Gale (Curiosity),MARS,stac:mro_ctx_controlled_usgs_dtms,USGS CTX DTM controlado (STAC astrogeology),20,-4.589,137.442,stac_dtm_unico
+mars_insight,Elysium Planitia (InSight),MARS,stac:mro_ctx_controlled_usgs_dtms,USGS CTX DTM controlado (STAC astrogeology),20,4.502,135.623,stac_dtm_unico
+mars_oxia_planum,Oxia Planum (ExoMars Rosalind Franklin),MARS,stac:mro_ctx_controlled_usgs_dtms,USGS CTX DTM controlado (STAC astrogeology),20,18.20,-24.50,stac_dtm_unico
+mars_meridiani,Meridiani Planum (Opportunity),MARS,stac:mro_ctx_controlled_usgs_dtms,USGS CTX DTM controlado (STAC astrogeology),20,-1.946,-5.527,stac_dtm_unico
+mars_gusev,Gusev (Spirit),MARS,stac:mro_ctx_controlled_usgs_dtms,USGS CTX DTM controlado (STAC astrogeology),20,-14.568,175.473,stac_dtm_unico

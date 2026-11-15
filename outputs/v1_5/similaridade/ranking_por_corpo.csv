@@ -1,0 +1,85 @@
+alvo,site_id,site_name,tipo,dist_features,recorte_alvo_mais_parecido,recorte_terra_mais_parecido,dist_zeus,cocluster_k2,cocluster_k3,cocluster_k4,cocluster_k5,cocluster_k6,cocluster_k7,cocluster_k8,cocluster_k9,cocluster_k10,score,posicao,posicao_sem_controles
+MOON,earth_mauna_loa_hi_seas,Mauna Loa - HI-SEAS,candidato,0.2787,moon_mons_mouton_plateau_r1c2,earth_mauna_loa_hi_seas_r3c1,0.1965,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,76.3787,1,1.0000
+MOON,earth_licancabur,Licancabur,candidato,0.4146,moon_haworth_r2c1,earth_licancabur_r3c1,5.8281,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,68.4881,2,2.0000
+MOON,earth_atacama_yungay,Atacama - Yungay,candidato,0.4709,moon_haworth_r2c1,earth_atacama_yungay_r1c2,7.8911,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,65.6770,3,3.0000
+MOON,earth_planalto_do_tibete_changtang,Planalto do Tibete - Changtang,candidato,0.4728,moon_nobile_rim_2_r1c3,earth_planalto_do_tibete_changtang_r2c3,8.1089,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,65.5847,4,4.0000
+MOON,earth_atacama_chajnantor,Atacama - Chajnantor,candidato,0.5261,moon_nobile_rim_2_r1c3,earth_atacama_chajnantor_r1c3,7.9080,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,63.1355,5,5.0000
+MOON,earth_islandia_askja,Islandia - Askja,candidato,0.5390,moon_haworth_r2c1,earth_islandia_askja_r3c2,8.1263,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,62.5726,6,6.0000
+MOON,earth_ojos_del_salado,Ojos del Salado,candidato,0.5711,moon_connecting_ridge_r3c2,earth_ojos_del_salado_r1c1,7.7257,1.0000,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,61.2042,7,7.0000
+MOON,earth_vale_da_morte,Vale da Morte,candidato,0.6027,moon_nobile_rim_2_r1c3,earth_vale_da_morte_r1c3,7.9674,1.0000,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,59.9207,8,8.0000
+MOON,earth_lanzarote,Lanzarote,candidato,0.6486,moon_haworth_r2c1,earth_lanzarote_r2c1,8.6741,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,58.1463,9,9.0000
+MOON,earth_ladakh,Ladakh,candidato,0.6783,moon_connecting_ridge_r2c2,earth_ladakh_r3c2,7.9758,1.0000,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,57.0533,10,10.0000
+MOON,earth_danakil_dallol,Danakil - Dallol,candidato,0.6841,moon_haworth_r2c1,earth_danakil_dallol_r2c1,8.1570,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,56.8417,11,11.0000
+MOON,earth_utah_mdrs,Utah - MDRS,candidato,0.7168,moon_haworth_r2c1,earth_utah_mdrs_r3c2,8.9309,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,55.6952,12,12.0000
+MOON,earth_namibe,Namibe,candidato,0.7269,moon_connecting_ridge_r2c2,earth_namibe_r3c2,8.0148,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,55.3487,13,13.0000
+MOON,earth_wadi_rum,Wadi Rum,candidato,0.7376,moon_connecting_ridge_r2c2,earth_wadi_rum_r2c1,7.9473,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,54.9883,14,14.0000
+MOON,earth_deserto_de_lut,Deserto de Lut,candidato,0.7429,moon_haworth_r2c1,earth_deserto_de_lut_r3c3,8.8652,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,54.8101,15,15.0000
+MOON,earth_teide,Teide,candidato,0.7691,moon_connecting_ridge_r2c3,earth_teide_r2c2,17.7670,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,53.9513,16,16.0000
+MOON,earth_deserto_de_mojave,Deserto de Mojave,candidato,0.7806,moon_nobile_rim_2_r1c3,earth_deserto_de_mojave_r1c1,9.5902,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,53.5803,17,17.0000
+MOON,earth_ilha_devon_haughton,Ilha Devon - Haughton,candidato,0.7944,moon_haworth_r2c1,earth_ilha_devon_haughton_r2c2,8.9691,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,53.1461,18,18.0000
+MOON,earth_kilimanjaro,Kilimanjaro,candidato,0.8466,moon_connecting_ridge_r3c2,earth_kilimanjaro_r2c3,8.9117,1.0000,0.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,51.5588,19,19.0000
+MOON,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,0.8605,moon_nobile_rim_2_r1c3,earth_bacia_de_qaidam_r1c3,10.3892,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,51.1509,20,20.0000
+MOON,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,0.9050,moon_connecting_ridge_r2c2,earth_svalbard_bockfjorden_r1c3,8.6933,1.0000,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,49.8900,21,21.0000
+MOON,earth_rub_al_khali,Rub al Khali,candidato,0.9419,moon_nobile_rim_2_r1c3,earth_rub_al_khali_r1c3,9.9560,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,48.8904,22,22.0000
+MOON,earth_aconcagua,Aconcagua,candidato,1.1087,moon_connecting_ridge_r2c3,earth_aconcagua_r1c3,9.0529,1.0000,0.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,44.8337,23,23.0000
+MOON,earth_gobi,Gobi,candidato,1.1234,moon_nobile_rim_2_r1c3,earth_gobi_r3c1,11.0357,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,44.5084,24,24.0000
+MOON,earth_deserto_de_simpson,Deserto de Simpson,candidato,1.2784,moon_nobile_rim_2_r1c3,earth_deserto_de_simpson_r1c1,18.6510,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,41.3423,25,25.0000
+MOON,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,1.2978,moon_nobile_rim_2_r1c3,earth_saara_tanezrouft_r3c1,10.9315,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.9784,26,26.0000
+MOON,earth_rio_tinto,Rio Tinto,candidato,1.3179,moon_connecting_ridge_r2c2,earth_rio_tinto_r2c2,18.8128,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.6070,27,27.0000
+MOON,earth_oymyakon,Oymyakon,candidato,1.3312,moon_haworth_r2c1,earth_oymyakon_r1c2,18.6347,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.3654,28,28.0000
+MOON,earth_everest,Everest,candidato,1.3651,moon_connecting_ridge_r2c3,earth_everest_r3c1,14.7726,1.0000,0.0000,0.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,39.7604,29,29.0000
+MOON,earth_manaus,Manaus,controle,1.3912,moon_nobile_rim_2_r1c3,earth_manaus_r3c2,11.8371,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,39.3083,30,
+MOON,earth_arkaroola,Arkaroola,candidato,1.4160,moon_haworth_r2c1,earth_arkaroola_r1c1,18.4952,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.8879,31,30.0000
+MOON,earth_pilbara,Pilbara,candidato,1.4199,moon_haworth_r2c1,earth_pilbara_r2c2,18.8228,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.8222,32,31.0000
+MOON,earth_salar_de_uyuni,Salar de Uyuni,candidato,1.4326,moon_nobile_rim_2_r1c3,earth_salar_de_uyuni_r2c3,11.0557,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.6105,33,32.0000
+MOON,earth_singapura,Singapura,controle,1.4584,moon_nobile_rim_2_r1c3,earth_singapura_r1c1,13.0427,1.0000,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.1885,34,
+MOON,earth_nova_york,Nova York,controle,1.6059,moon_nobile_rim_2_r1c3,earth_nova_york_r3c1,15.0525,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,35.9420,35,
+MOON,earth_denali,Denali,candidato,1.6225,moon_connecting_ridge_r2c3,earth_denali_r1c3,14.8662,1.0000,0.0000,0.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,35.7055,36,33.0000
+MOON,earth_londres,Londres,controle,1.6477,moon_nobile_rim_2_r1c3,earth_londres_r3c1,14.6770,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,35.3518,37,
+MOON,earth_sao_paulo,Sao Paulo,controle,1.7493,moon_connecting_ridge_r2c2,earth_sao_paulo_r1c2,14.7745,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,33.9973,38,
+MOON,earth_vostok,Vostok,candidato,2.0975,moon_nobile_rim_2_r1c3,earth_vostok_r3c2,34.0146,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,30.0493,39,34.0000
+MOON,earth_dome_argus,Dome Argus,candidato,2.1157,moon_nobile_rim_2_r1c3,earth_dome_argus_r3c1,33.8995,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,29.8683,40,35.0000
+MOON,earth_groenlandia_summit,Groenlandia - Summit,candidato,2.1424,moon_nobile_rim_2_r1c3,earth_groenlandia_summit_r2c1,34.0978,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,29.6062,41,36.0000
+MOON,earth_dome_c,Dome C,candidato,2.2248,moon_nobile_rim_2_r1c3,earth_dome_c_r3c1,33.8103,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,28.8254,42,37.0000
+MARS,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,0.1604,mars_jezero_r1c1,earth_bacia_de_qaidam_r2c3,0.1561,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.8667,0.8667,84.8881,1,1.0000
+MARS,earth_deserto_de_lut,Deserto de Lut,candidato,0.2065,mars_insight_r6c3,earth_deserto_de_lut_r2c1,0.2581,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8889,0.8889,0.8889,81.3541,2,2.0000
+MARS,earth_islandia_askja,Islandia - Askja,candidato,0.2082,mars_oxia_planum_r1c1,earth_islandia_askja_r3c3,0.3024,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.8889,0.8889,0.8889,81.2309,3,3.0000
+MARS,earth_vale_da_morte,Vale da Morte,candidato,0.2105,mars_oxia_planum_r5c1,earth_vale_da_morte_r1c2,0.2732,1.0000,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.8889,0.8889,81.0629,4,4.0000
+MARS,earth_gobi,Gobi,candidato,0.2783,mars_insight_r1c2,earth_gobi_r3c1,0.4756,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.8667,0.8667,76.4049,5,5.0000
+MARS,earth_danakil_dallol,Danakil - Dallol,candidato,0.2964,mars_insight_r6c3,earth_danakil_dallol_r2c2,0.2985,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.8889,0.8889,0.8889,75.2478,6,6.0000
+MARS,earth_utah_mdrs,Utah - MDRS,candidato,0.3592,mars_meridiani_r1c1,earth_utah_mdrs_r1c3,1.2774,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8889,0.8889,0.8889,71.4948,7,7.0000
+MARS,earth_mauna_loa_hi_seas,Mauna Loa - HI-SEAS,candidato,0.3943,mars_jezero_r1c3,earth_mauna_loa_hi_seas_r1c1,0.7712,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,1.0000,0.9778,0.9778,69.5594,8,8.0000
+MARS,earth_atacama_chajnantor,Atacama - Chajnantor,candidato,0.4220,mars_meridiani_r1c1,earth_atacama_chajnantor_r1c3,1.5849,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.8889,0.8889,0.8889,68.1013,9,9.0000
+MARS,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,0.4324,mars_gusev_r1c2,earth_saara_tanezrouft_r3c1,0.3912,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.8667,0.8667,67.5717,10,10.0000
+MARS,earth_planalto_do_tibete_changtang,Planalto do Tibete - Changtang,candidato,0.4359,mars_jezero_r3c3,earth_planalto_do_tibete_changtang_r2c3,2.6839,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.0222,0.0222,0.0222,67.3934,11,11.0000
+MARS,earth_atacama_yungay,Atacama - Yungay,candidato,0.4575,mars_meridiani_r1c1,earth_atacama_yungay_r3c3,2.3549,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.0222,0.0222,0.0222,66.3217,12,12.0000
+MARS,earth_rub_al_khali,Rub al Khali,candidato,0.4884,mars_gusev_r3c1,earth_rub_al_khali_r1c3,0.9047,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.8667,0.8667,64.8506,13,13.0000
+MARS,earth_deserto_de_mojave,Deserto de Mojave,candidato,0.5061,mars_gale_r1c1,earth_deserto_de_mojave_r1c1,3.3246,1.0000,1.0000,1.0000,0.8889,0.8889,0.0222,0.0222,0.0222,0.0222,64.0313,14,14.0000
+MARS,earth_lanzarote,Lanzarote,candidato,0.5341,mars_meridiani_r1c1,earth_lanzarote_r2c1,2.3776,1.0000,1.0000,1.0000,0.8889,0.8889,0.8889,0.8889,0.8889,0.8889,62.7862,15,15.0000
+MARS,earth_salar_de_uyuni,Salar de Uyuni,candidato,0.5350,mars_insight_r6c3,earth_salar_de_uyuni_r2c3,0.5533,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.8667,0.8667,62.7436,16,16.0000
+MARS,earth_licancabur,Licancabur,candidato,0.6280,mars_gale_r4c1,earth_licancabur_r3c3,4.0126,1.0000,1.0000,1.0000,0.8889,0.8889,0.0222,0.0222,0.0222,0.0222,58.9269,17,17.0000
+MARS,earth_ilha_devon_haughton,Ilha Devon - Haughton,candidato,0.6764,mars_gusev_r3c1,earth_ilha_devon_haughton_r2c2,2.4961,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.0222,0.0222,0.0222,57.1218,18,18.0000
+MARS,earth_deserto_de_simpson,Deserto de Simpson,candidato,0.8241,mars_gusev_r3c2,earth_deserto_de_simpson_r1c1,14.2253,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,52.2308,19,19.0000
+MARS,earth_namibe,Namibe,candidato,0.8710,mars_gale_r4c1,earth_namibe_r3c2,2.9355,1.0000,1.0000,1.0000,0.8889,0.8889,0.0222,0.0222,0.0222,0.0222,50.8464,20,20.0000
+MARS,earth_wadi_rum,Wadi Rum,candidato,0.8794,mars_gale_r4c1,earth_wadi_rum_r3c1,3.8180,1.0000,1.0000,1.0000,0.8889,0.8889,0.0222,0.0222,0.0222,0.0222,50.6089,21,21.0000
+MARS,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,0.8979,mars_gale_r4c1,earth_svalbard_bockfjorden_r1c3,5.1153,1.0000,1.0000,1.0000,1.0000,0.8889,0.0222,0.0222,0.0222,0.0222,50.0883,22,22.0000
+MARS,earth_manaus,Manaus,controle,0.9771,mars_jezero_r3c2,earth_manaus_r3c3,6.7684,1.0000,1.0000,0.0000,0.0000,0.0000,0.8667,0.8667,0.8667,0.0000,47.9750,23,
+MARS,earth_ojos_del_salado,Ojos del Salado,candidato,0.9935,mars_gale_r4c1,earth_ojos_del_salado_r1c3,4.2514,1.0000,1.0000,1.0000,1.0000,0.8889,0.0222,0.0222,0.0222,0.0222,47.5594,24,23.0000
+MARS,earth_ladakh,Ladakh,candidato,1.0333,mars_gale_r4c1,earth_ladakh_r2c1,4.3907,1.0000,1.0000,1.0000,1.0000,0.8889,0.0222,0.0222,0.0222,0.0222,46.5806,25,24.0000
+MARS,earth_singapura,Singapura,controle,1.0533,mars_jezero_r3c2,earth_singapura_r3c3,5.0430,1.0000,1.0000,1.0000,0.8889,0.8889,0.8667,0.8667,0.0000,0.0000,46.1043,26,
+MARS,earth_oymyakon,Oymyakon,candidato,1.2885,mars_gale_r2c1,earth_oymyakon_r2c2,14.3092,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,41.1513,27,25.0000
+MARS,earth_teide,Teide,candidato,1.3031,mars_gale_r4c1,earth_teide_r2c2,13.3809,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.8794,28,26.0000
+MARS,earth_londres,Londres,controle,1.3188,mars_jezero_r3c1,earth_londres_r3c1,14.2172,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.5894,29,
+MARS,earth_kilimanjaro,Kilimanjaro,candidato,1.3214,mars_gale_r4c1,earth_kilimanjaro_r2c2,8.8996,1.0000,0.0000,1.0000,0.1111,0.0000,0.0222,0.0000,0.0000,0.0000,40.5433,30,27.0000
+MARS,earth_pilbara,Pilbara,candidato,1.3471,mars_meridiani_r1c1,earth_pilbara_r1c3,14.5835,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,40.0787,31,28.0000
+MARS,earth_nova_york,Nova York,controle,1.3576,mars_jezero_r3c1,earth_nova_york_r1c1,14.2098,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,39.8939,32,
+MARS,earth_arkaroola,Arkaroola,candidato,1.4600,mars_gusev_r3c1,earth_arkaroola_r1c1,14.1409,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.1634,33,29.0000
+MARS,earth_rio_tinto,Rio Tinto,candidato,1.4696,mars_gale_r4c1,earth_rio_tinto_r2c2,14.4391,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,38.0081,34,30.0000
+MARS,earth_vostok,Vostok,candidato,1.5211,mars_insight_r4c2,earth_vostok_r3c2,26.9961,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,37.1996,35,31.0000
+MARS,earth_dome_argus,Dome Argus,candidato,1.5292,mars_insight_r4c2,earth_dome_argus_r3c1,26.8648,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,37.0762,36,32.0000
+MARS,earth_groenlandia_summit,Groenlandia - Summit,candidato,1.5458,mars_insight_r4c2,earth_groenlandia_summit_r2c1,27.0919,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,36.8242,37,33.0000
+MARS,earth_dome_c,Dome C,candidato,1.5979,mars_insight_r4c2,earth_dome_c_r3c1,26.7627,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,36.0566,38,34.0000
+MARS,earth_aconcagua,Aconcagua,candidato,1.6486,mars_gale_r4c1,earth_aconcagua_r1c1,9.4383,1.0000,0.0000,1.0000,0.1111,0.0000,0.0222,0.0000,0.0000,0.0000,35.3394,39,35.0000
+MARS,earth_sao_paulo,Sao Paulo,controle,1.7728,mars_gale_r4c1,earth_sao_paulo_r1c2,13.8283,1.0000,1.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,0.0000,33.6979,40,
+MARS,earth_everest,Everest,candidato,1.7977,mars_gale_r4c1,earth_everest_r3c1,12.8607,1.0000,0.0000,0.0000,0.1111,0.0000,0.0000,0.0000,0.0000,0.0000,33.3873,41,36.0000
+MARS,earth_denali,Denali,candidato,2.0643,mars_gale_r4c1,earth_denali_r1c3,17.8486,1.0000,0.0000,0.0000,0.1111,0.0000,0.0000,0.0000,0.0000,0.0000,30.3852,42,37.0000

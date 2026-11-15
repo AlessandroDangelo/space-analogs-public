@@ -1,0 +1,59 @@
+{
+  "_como_editar": "Public code copy: contact data and photos removed (LGPD). See the live site for team contacts.",
+  "nome": "Earth Dev Defense",
+  "descricao": "Earth Dev Defense is a multidisciplinary team of undergraduate and graduate students, brought together by technology, innovation and building solutions to real-world challenges.",
+  "evento_local": "Ouro Preto, Brazil",
+  "pagina_oficial": "https://www.spaceappschallenge.org/2026/find-a-team/earth-dev-defense/",
+  "fotos": [],
+  "integrantes": [
+    {
+      "nome": "Pablo de Oliveira Passarini",
+      "funcao": "Team lead",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    },
+    {
+      "nome": "Luís Gustavo de Oliveira Miranda",
+      "funcao": "",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    },
+    {
+      "nome": "Henrique Ulhôa de Faria",
+      "funcao": "",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    },
+    {
+      "nome": "Icaro Luiz Lage Vasconcelos",
+      "funcao": "",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    },
+    {
+      "nome": "Alessandro D’Angelo",
+      "funcao": "",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    },
+    {
+      "nome": "Gabriel Correia Moreira",
+      "funcao": "",
+      "email": null,
+      "lattes": null,
+      "linkedin": null,
+      "foto": ""
+    }
+  ],
+  "logo": "assets/logo-equipe.jpg"
+}

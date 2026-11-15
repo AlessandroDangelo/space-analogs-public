@@ -1,0 +1,16 @@
+# Pipeline de features (Python 3.11). Versões testadas em Windows 10, 2026-11-14.
+numpy==2.4.6
+pandas==3.1.1
+scipy==1.17.1
+rasterio==1.4.4
+pyproj==3.7.2
+pystac-client==0.9.1
+earthaccess==0.17.0
+tabulate==0.10.0
+pillow==11.0.0
+shapely==2.2.0
+pyshp==3.1.8
+scikit-learn==1.5.2
+gdown==6.5.1
+# PyTorch (para o ZEUS) vem de outro índice:
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu

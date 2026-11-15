@@ -1,0 +1,4 @@
+site_id,corpo,nivel_correspondencia,fonte,observacao
+earth_islandia_askja,MARS,regiao (Islandia),"Veneranda et al. 2020, J. Raman Spectrosc. 51(9):1731-1749 (PTAL), sec. 3.2.1",amostras da Islandia como analogo de alteracao mineral em Marte; nao necessariamente Askja
+earth_teide,MARS,regiao (Tenerife),"Veneranda et al. 2020 (PTAL)",basaltos alterados de Tenerife (azulejos) como analogo marciano
+earth_rio_tinto,MARS,local,"Veneranda et al. 2020 (PTAL)",Rio Tinto citado como analogo marciano

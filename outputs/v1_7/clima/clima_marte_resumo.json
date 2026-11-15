@@ -1,0 +1,182 @@
+{
+  "fonte": "Luís Gustavo de Oliveira Miranda — Análogos climáticos de Marte na Terra (2026-11-14)",
+  "metodo": "Gower, 9 grandezas, pesos 0,5 nas 6 térmicas; pressão log10; precipitação log(1+x)",
+  "aerossol_terra": "dust_aod_550nm",
+  "n_terra_total": 507,
+  "n_nomeados": 43,
+  "n_celulas_marte": 16200,
+  "amplitudes_R": {
+    "temp_ar": 144.679,
+    "amp_sazonal_ar": 108.309,
+    "amp_diurna_ar": 107.4737,
+    "temp_sup": 150.0415,
+    "amp_sazonal_sup": 112.923,
+    "amp_diurna_sup": 135.5602,
+    "pressao": 2.9361,
+    "precip": 3.3717,
+    "poeira": 0.7069
+  },
+  "celula_por_alvo": {
+    "mars_jezero": {
+      "lat": 19.0,
+      "lon_leste": 77.0,
+      "temp_ar": 217.7,
+      "amp_sazonal_ar": 12.662,
+      "amp_diurna_ar": 52.2537,
+      "temp_sup": 228.007,
+      "amp_sazonal_sup": 14.238,
+      "amp_diurna_sup": 82.2517,
+      "pressao": 663.327,
+      "precip": 0.0,
+      "poeira": 0.5086
+    },
+    "mars_gale": {
+      "lat": -5.0,
+      "lon_leste": 137.0,
+      "temp_ar": 217.895,
+      "amp_sazonal_ar": 23.865,
+      "amp_diurna_ar": 56.332,
+      "temp_sup": 224.645,
+      "amp_sazonal_sup": 28.219,
+      "amp_diurna_sup": 82.4846,
+      "pressao": 675.66,
+      "precip": 0.0,
+      "poeira": 0.5257
+    },
+    "mars_insight": {
+      "lat": 5.0,
+      "lon_leste": 135.0,
+      "temp_ar": 215.819,
+      "amp_sazonal_ar": 18.543,
+      "amp_diurna_ar": 57.4654,
+      "temp_sup": 222.884,
+      "amp_sazonal_sup": 19.585,
+      "amp_diurna_sup": 83.8442,
+      "pressao": 724.218,
+      "precip": 0.0,
+      "poeira": 0.553
+    },
+    "mars_oxia_planum": {
+      "lat": 19.0,
+      "lon_leste": 335.0,
+      "temp_ar": 219.553,
+      "amp_sazonal_ar": 15.195,
+      "amp_diurna_ar": 49.9004,
+      "temp_sup": 225.661,
+      "amp_sazonal_sup": 14.958,
+      "amp_diurna_sup": 72.8736,
+      "pressao": 747.929,
+      "precip": 0.0,
+      "poeira": 0.5704
+    },
+    "mars_meridiani": {
+      "lat": -1.0,
+      "lon_leste": 355.0,
+      "temp_ar": 220.143,
+      "amp_sazonal_ar": 26.028,
+      "amp_diurna_ar": 63.789,
+      "temp_sup": 228.408,
+      "amp_sazonal_sup": 25.913,
+      "amp_diurna_sup": 95.7942,
+      "pressao": 646.806,
+      "precip": 0.0,
+      "poeira": 0.4968
+    },
+    "mars_gusev": {
+      "lat": -15.0,
+      "lon_leste": 175.0,
+      "temp_ar": 210.666,
+      "amp_sazonal_ar": 35.803,
+      "amp_diurna_ar": 66.3561,
+      "temp_sup": 217.867,
+      "amp_sazonal_sup": 41.095,
+      "amp_diurna_sup": 94.3847,
+      "pressao": 626.13,
+      "precip": 0.0,
+      "poeira": 0.4862
+    }
+  },
+  "validacao": {
+    "mars_gale": {
+      "auc_analogo_x_controle": 0.995,
+      "spearman_com_score_v1_7": 0.001,
+      "spearman_so_candidatos": -0.208,
+      "top5": [
+        "Dome Argus",
+        "Saara - Tanezrouft",
+        "Denali",
+        "Vostok",
+        "Rub al Khali"
+      ]
+    },
+    "mars_gusev": {
+      "auc_analogo_x_controle": 0.984,
+      "spearman_com_score_v1_7": -0.047,
+      "spearman_so_candidatos": -0.272,
+      "top5": [
+        "Dome Argus",
+        "Denali",
+        "Vostok",
+        "Dome C",
+        "Bacia de Qaidam"
+      ]
+    },
+    "mars_insight": {
+      "auc_analogo_x_controle": 0.995,
+      "spearman_com_score_v1_7": 0.007,
+      "spearman_so_candidatos": -0.12,
+      "top5": [
+        "Dome Argus",
+        "Saara - Tanezrouft",
+        "Denali",
+        "Vostok",
+        "Rub al Khali"
+      ]
+    },
+    "mars_jezero": {
+      "auc_analogo_x_controle": 0.995,
+      "spearman_com_score_v1_7": 0.076,
+      "spearman_so_candidatos": -0.124,
+      "top5": [
+        "Saara - Tanezrouft",
+        "Dome Argus",
+        "Denali",
+        "Rub al Khali",
+        "Vostok"
+      ]
+    },
+    "mars_meridiani": {
+      "auc_analogo_x_controle": 0.995,
+      "spearman_com_score_v1_7": 0.049,
+      "spearman_so_candidatos": -0.114,
+      "top5": [
+        "Saara - Tanezrouft",
+        "Dome Argus",
+        "Denali",
+        "Rub al Khali",
+        "Vostok"
+      ]
+    },
+    "mars_oxia_planum": {
+      "auc_analogo_x_controle": 0.995,
+      "spearman_com_score_v1_7": 0.055,
+      "spearman_so_candidatos": -0.122,
+      "top5": [
+        "Dome Argus",
+        "Saara - Tanezrouft",
+        "Denali",
+        "Vostok",
+        "Rub al Khali"
+      ]
+    }
+  },
+  "locais_sem_site_id": [],
+  "teste_reproducao_aod_total": {
+    "executado": true,
+    "max_dif_abs_por_sitio": {
+      "Jezero": 1.0930307370315973e-07,
+      "Gale": 1.0114242920966632e-07,
+      "Elysium": 1.1561229051881838e-07
+    }
+  }
+}

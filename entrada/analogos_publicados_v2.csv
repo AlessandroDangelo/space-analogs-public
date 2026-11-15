@@ -1,0 +1,26 @@
+site_id,corpo,nivel_correspondencia,fonte,observacao
+earth_atacama_yungay,MOON,local (Yungay citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 2",corpo pelo indice (Directory) do catalogo
+earth_atacama_yungay,MARS,local (Yungay citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 2",corpo pelo indice (Directory) do catalogo
+earth_atacama_chajnantor,MOON,regiao (Deserto do Atacama),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 2",corpo pelo indice (Directory) do catalogo
+earth_atacama_chajnantor,MARS,regiao (Deserto do Atacama),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 2",corpo pelo indice (Directory) do catalogo
+earth_deserto_de_simpson,MOON,regiao (Australia Central),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 3",corpo pelo indice (Directory) do catalogo
+earth_deserto_de_simpson,MARS,regiao (Australia Central),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 3",corpo pelo indice (Directory) do catalogo
+earth_ilha_devon_haughton,MOON,local (Haughton),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 10",corpo pelo indice (Directory) do catalogo
+earth_ilha_devon_haughton,MARS,local (Haughton),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 10",corpo pelo indice (Directory) do catalogo
+earth_islandia_askja,MOON,local (Askja citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 12",corpo pelo indice (Directory) do catalogo
+earth_islandia_askja,MARS,local (Askja citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 12",corpo pelo indice (Directory) do catalogo
+earth_mauna_loa_hi_seas,MOON,regiao (Havai; capitulo Kilauea),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 14",corpo pelo indice (Directory) do catalogo
+earth_mauna_loa_hi_seas,MARS,regiao (Havai; capitulo Kilauea),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 14",corpo pelo indice (Directory) do catalogo
+earth_namibe,MARS,local (Namib),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 19",corpo pelo indice (Directory) do catalogo
+earth_pilbara,MARS,local (Pilbara),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 21",corpo pelo indice (Directory) do catalogo
+earth_rio_tinto,MARS,local (Rio Tinto),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 23",corpo pelo indice (Directory) do catalogo
+earth_svalbard_bockfjorden,MOON,local (Bockfjorden citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 26",corpo pelo indice (Directory) do catalogo
+earth_svalbard_bockfjorden,MARS,local (Bockfjorden citado),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 26",corpo pelo indice (Directory) do catalogo
+earth_teide,MOON,local (Teide),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 27",corpo pelo indice (Directory) do catalogo
+earth_teide,MARS,local (Teide),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 27",corpo pelo indice (Directory) do catalogo
+earth_utah_mdrs,MARS,local (MDRS),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 29",corpo pelo indice (Directory) do catalogo
+earth_vales_secos_de_mcmurdo,MOON,local (Antarctic Dry Valleys),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 1",corpo pelo indice (Directory) do catalogo
+earth_vales_secos_de_mcmurdo,MARS,local (Antarctic Dry Valleys),"Preston, Grady & Barber 2012, The Catalogue of Planetary Analogues (ESA CAFE TN2), cap. 1",corpo pelo indice (Directory) do catalogo
+earth_islandia_askja,MARS,regiao (Islandia),"Veneranda et al. 2020, J. Raman Spectrosc. 51(9):1731-1749 (PTAL), sec. 3.2.1",amostras da Islandia como analogo de alteracao mineral em Marte; nao necessariamente Askja
+earth_teide,MARS,regiao (Tenerife),Veneranda et al. 2020 (PTAL),basaltos alterados de Tenerife (azulejos) como analogo marciano
+earth_rio_tinto,MARS,local,Veneranda et al. 2020 (PTAL),Rio Tinto citado como analogo marciano

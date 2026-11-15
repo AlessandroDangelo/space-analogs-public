@@ -1,0 +1,54 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciais / config pessoal (nunca versionar)
+.netrc
+_netrc
+.dodsrc
+.urs_cookies
+.env
+*.token
+
+# Dados pesados
+entrada/*.tif
+entrada/*.zip
+entrada/*.xlsx
+*.tif
+*.tiff
+*.hgt
+*.zip
+*.pt
+nasadem/
+cache/
+outputs/**/dem_crops/
+external/
+
+# Referência (binários)
+referencia/
+
+# ZEUS (entrega)
+entrega_zeus/zeus_repo/
+entrega_zeus/embeddings_zeus.csv
+outputs/**/dem_janelas/
+outputs/**/checkpoint_linhas.csv
+outputs/**/embeddings_zeus.csv
+outputs/site/relevo/
+.claude/
+
+# Material bruto da equipe (o site usa as cópias em site/assets/)
+/Equipe/
+/Equipe*.jpeg
+/entrega_zeus.zip
+/LogoHackathon.PNG
+
+# Material bruto dos outros integrantes (~13 GB)
+/Feitos_de_outros_integrantes/
+
+# Zip de compartilhamento (src/empacotar_compartilhamento.py)
+/space-analogs_compartilhar_*.zip
+
+# PDFs soltos na raiz (rascunhos, documentos pessoais)
+/*.pdf

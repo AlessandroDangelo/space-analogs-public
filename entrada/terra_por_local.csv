@@ -1,0 +1,44 @@
+local,tipo,lat,lon
+Aconcagua,analogo,-32.65,-70.01
+Arkaroola,analogo,-30.3,139.3
+Atacama - Chajnantor,analogo,-23.02,-67.75
+Atacama - Yungay,analogo,-24.1,-70.0
+Bacia de Qaidam,analogo,38.4,93.3
+Danakil - Dallol,analogo,14.24,40.3
+Denali,analogo,63.07,-151.0
+Deserto de Lut,analogo,30.6,59.07
+Deserto de Mojave,analogo,35.0,-115.5
+Deserto de Simpson,analogo,-25.0,137.0
+Dome Argus,analogo,-80.37,77.37
+Dome C,analogo,-75.1,123.33
+Everest,analogo,27.99,86.93
+Gobi,analogo,42.5,105.0
+Groenlandia - Summit,analogo,72.58,-38.46
+Ilha Devon - Haughton,analogo,75.38,-89.67
+Islandia - Askja,analogo,65.05,-16.75
+Kilimanjaro,analogo,-3.07,37.35
+Ladakh,analogo,34.15,77.58
+Lanzarote,analogo,29.0,-13.7
+Licancabur,analogo,-22.83,-67.88
+Londres,controle,51.5,-0.13
+Manaus,controle,-3.1,-60.0
+Mauna Loa - HI-SEAS,analogo,19.6,-155.49
+Namibe,analogo,-24.75,15.3
+Nova York,controle,40.71,-74.01
+Ojos del Salado,analogo,-27.11,-68.54
+Oymyakon,analogo,63.46,142.79
+Pilbara,analogo,-21.2,119.3
+Planalto do Tibete - Changtang,analogo,33.0,86.0
+Rio Tinto,analogo,37.72,-6.55
+Rub al Khali,analogo,20.0,50.0
+Saara - Tanezrouft,analogo,24.0,0.0
+Salar de Uyuni,analogo,-20.13,-67.49
+Sao Paulo,controle,-23.55,-46.63
+Singapura,controle,1.35,103.8
+Svalbard - Bockfjorden,analogo,79.4,13.3
+Teide,analogo,28.27,-16.64
+Utah - MDRS,analogo,38.41,-110.79
+Vale da Morte,analogo,36.5,-117.0
+Vales Secos de McMurdo,analogo,-77.63,162.9
+Vostok,analogo,-78.46,106.84
+Wadi Rum,analogo,29.57,35.42

@@ -1,0 +1,46 @@
+tile_id,site_id,site_name,source,status,detail,protocol
+earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,NASADEM,OK,,v1_3_1
+earth_arkaroola_r2c2,earth_arkaroola,Arkaroola,NASADEM,OK,,v1_3_1
+earth_atacama_chajnantor_r2c2,earth_atacama_chajnantor,Atacama - Chajnantor,NASADEM,OK,,v1_3_1
+earth_atacama_yungay_r2c2,earth_atacama_yungay,Atacama - Yungay,NASADEM,OK,,v1_3_1
+earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,NASADEM,OK,,v1_3_1
+earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,NASADEM,OK,,v1_3_1
+earth_denali_r2c2,earth_denali,Denali,ArcticDEM,OK,,v1_3_1
+earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,NASADEM,OK,,v1_3_1
+earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,NASADEM,OK,AVISO: 7 pixels NoData; cobertura=99.9862%; zona excluída das métricas locais,v1_3_1
+earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,NASADEM,OK,,v1_3_1
+earth_dome_argus_r2c2,earth_dome_argus,Dome Argus,REMA,OK,,v1_3_1
+earth_dome_c_r2c2,earth_dome_c,Dome C,REMA,OK,,v1_3_1
+earth_everest_r2c2,earth_everest,Everest,NASADEM,OK,,v1_3_1
+earth_gobi_r2c2,earth_gobi,Gobi,NASADEM,OK,,v1_3_1
+earth_groenlandia_summit_r2c2,earth_groenlandia_summit,Groenlandia - Summit,ArcticDEM,OK,,v1_3_1
+earth_ilha_devon_haughton_r2c2,earth_ilha_devon_haughton,Ilha Devon - Haughton,ArcticDEM,OK,,v1_3_1
+earth_islandia_askja_r2c2,earth_islandia_askja,Islandia - Askja,ArcticDEM,OK,,v1_3_1
+earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,NASADEM,OK,,v1_3_1
+earth_ladakh_r2c2,earth_ladakh,Ladakh,NASADEM,OK,,v1_3_1
+earth_lanzarote_r2c2,earth_lanzarote,Lanzarote,NASADEM,OK,,v1_3_1
+earth_licancabur_r2c2,earth_licancabur,Licancabur,NASADEM,OK,,v1_3_1
+earth_londres_r2c2,earth_londres,Londres,NASADEM,OK,,v1_3_1
+earth_manaus_r2c2,earth_manaus,Manaus,NASADEM,OK,,v1_3_1
+earth_mauna_loa_hi_seas_r2c2,earth_mauna_loa_hi_seas,Mauna Loa - HI-SEAS,NASADEM,OK,,v1_3_1
+earth_namibe_r2c2,earth_namibe,Namibe,NASADEM,OK,,v1_3_1
+earth_nova_york_r2c2,earth_nova_york,Nova York,NASADEM,OK,,v1_3_1
+earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,NASADEM,OK,,v1_3_1
+earth_oymyakon_r2c2,earth_oymyakon,Oymyakon,ArcticDEM,OK,,v1_3_1
+earth_pilbara_r2c2,earth_pilbara,Pilbara,NASADEM,OK,,v1_3_1
+earth_planalto_do_tibete_changtang_r2c2,earth_planalto_do_tibete_changtang,Planalto do Tibete - Changtang,NASADEM,OK,,v1_3_1
+earth_rio_tinto_r2c2,earth_rio_tinto,Rio Tinto,NASADEM,OK,,v1_3_1
+earth_rub_al_khali_r2c2,earth_rub_al_khali,Rub al Khali,NASADEM,OK,AVISO: 25 pixels NoData; cobertura=99.9506%; zona excluída das métricas locais,v1_3_1
+earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,NASADEM,OK,AVISO: 7 pixels NoData; cobertura=99.9862%; zona excluída das métricas locais,v1_3_1
+earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,Salar de Uyuni,NASADEM,OK,,v1_3_1
+earth_sao_paulo_r2c2,earth_sao_paulo,Sao Paulo,NASADEM,OK,,v1_3_1
+earth_singapura_r2c2,earth_singapura,Singapura,NASADEM,OK,,v1_3_1
+earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,ArcticDEM,OK,,v1_3_1
+earth_teide_r2c2,earth_teide,Teide,NASADEM,OK,,v1_3_1
+earth_utah_mdrs_r2c2,earth_utah_mdrs,Utah - MDRS,NASADEM,OK,,v1_3_1
+earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,NASADEM,OK,,v1_3_1
+earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,REMA,OK,,v1_3_1
+earth_vostok_r2c2,earth_vostok,Vostok,REMA,OK,,v1_3_1
+earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,NASADEM,OK,,v1_3_1
+mars_001_r2c2,mars_001,Jezero — recorte central,USGS Mars 2020 CTX DEM 20m,OK,,v1_3_1
+moon_001_r2c2,moon_001,Connecting Ridge — recorte central,NASA LOLA Site01 DEM 5m,OK,,v1_3_1

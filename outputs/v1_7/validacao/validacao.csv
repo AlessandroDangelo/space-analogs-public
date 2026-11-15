@@ -1,0 +1,9 @@
+teste,corpo,auc,p,n,spearman,top10_comum
+candidatos_vs_controles,MOON,0.8947368421052632,0.0011687121726826773,,,
+candidatos_vs_controles,MARS,0.7578947368421053,0.03248396526899079,,,
+publicados_vs_demais,MOON,0.8544061302681992,0.0007920264338972186,9.0,,
+publicados_vs_demais,MARS,0.6523076923076923,0.06581664759095063,13.0,,
+peso por grupo × peso por coluna,MOON,,,,0.9186393331574481,9.0
+distância nas features × distância no ZEUS,MOON,,,,0.17426759287224403,1.0
+peso por grupo × peso por coluna,MARS,,,,0.893687707641196,8.0
+distância nas features × distância no ZEUS,MARS,,,,0.2186650558743582,4.0

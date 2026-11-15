@@ -1,0 +1,287 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Earth Dev Defense — Earth Analogs for the Moon and Mars</title>
+  <meta name="description" content="Which places on Earth are most similar to the candidate base regions on the Moon and to landing sites on Mars, and how. Team Earth Dev Defense, NASA Space Apps Challenge 2026, Ouro Preto, Brazil.">
+  <meta name="theme-color" content="#08103F">
+  <link rel="icon" href="assets/logo-equipe.jpg" type="image/jpeg">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preload" as="image" href="assets/img/lua_polo_sul.webp" type="image/webp">
+  <link rel="stylesheet" href="style.css?v=18">
+</head>
+<body>
+  <a class="pular" href="#analise">Skip to the analysis</a>
+
+  <!-- Navigation -->
+  <header class="nav" role="banner">
+    <div class="nav-inner">
+      <a class="marca" href="#inicio" aria-label="NASA Space Apps Challenge 2026 — home">
+        <img src="assets/logo-space-apps.png" alt="NASA Space Apps Challenge" class="logo" width="113" height="44">
+        <span class="marca-texto"><strong>2026</strong><span>Ouro Preto, Brazil</span></span>
+      </a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="menu" aria-label="Open menu">
+        <svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-menu"/></svg>
+      </button>
+      <nav id="menu" aria-label="Sections">
+        <a href="#desafio">Challenge</a>
+        <a href="#analise">Analysis</a>
+        <a href="#metodologia">Methodology</a>
+        <a href="#equipe">Team</a>
+        <a href="https://github.com/earthdevdefense/space-analogs" target="_blank" rel="noopener">Code</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Opening -->
+  <section id="inicio" class="hero">
+    <div class="hero-fundo" aria-hidden="true">
+      <img class="hero-lua" src="assets/img/lua_polo_sul.webp" alt="" width="1000" height="1000" fetchpriority="high">
+      <img class="hero-marte" src="assets/img/marte_hemisferio.webp" alt="" width="1000" height="944" loading="lazy">
+    </div>
+    <div class="hero-inner">
+      <p class="selo-hero">
+        <img src="assets/logo-equipe.jpg" alt="Earth Dev Defense team logo" width="40" height="40">
+        <span><strong>Earth Dev Defense</strong> · Moon and Mars analogs challenge</span>
+      </p>
+      <h1>Where on Earth can we rehearse life on the <span class="destaque-lua">Moon</span> and <span class="destaque-marte">Mars</span>?</h1>
+      <p class="lead">We compare terrain, ground cover, temperature and geology of places on Earth with regions on the
+        Moon and Mars, using open data from NASA, ESA and USGS.</p>
+      <div class="numeros" id="numeros"></div>
+      <a class="botao botao-primario" href="#analise">See the most similar places
+        <svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-arrow-down"/></svg></a>
+      <p class="credito-hero">Background: lunar south pole (Clementine) and Mars (Viking) — NASA/JPL/USGS</p>
+    </div>
+  </section>
+
+  <main>
+    <!-- Challenge -->
+    <section id="desafio" class="secao">
+      <header class="cabeca-secao">
+        <h2 class="titulo-secao">Challenge</h2>
+        <p class="intro">Why look for places on Earth that resemble the Moon and Mars.</p>
+      </header>
+
+      <div class="desafio-grade">
+        <div class="desafio-texto">
+          <h3>What NASA asked</h3>
+          <p>Use open data to <strong>find and describe places on Earth that resemble</strong> future bases on the Moon
+            and landing sites on Mars, and show them on a map or interactive tool.</p>
+          <details class="saiba">
+            <summary>Read the full challenge</summary>
+            <p class="nota-desafio">Challenge <em>“Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars”</em>.</p>
+            <p>Choosing where to land and where to build a base on the Moon or Mars depends on many factors: terrain,
+              geology, environment and available resources. Places on Earth with similar features, such as the Atacama
+              Desert, Haughton crater and Death Valley, let teams test equipment and methods before flight, but they are
+              still poorly characterized.</p>
+            <p>The challenge is to use open data from Earth, the Moon and Mars to <strong>identify and characterize
+              terrestrial analogs</strong> for future bases and landing sites (deserts, polar regions, volcanic and arid
+              terrain) and present the result as a map, a visualization or another tool.</p>
+            <p class="nota">Paraphrase of the official NASA Space Apps Challenge 2026 statement.</p>
+          </details>
+        </div>
+        <figure class="trio" id="trio">
+          <!-- filled by app.js with real relief thumbnails (project data) -->
+        </figure>
+      </div>
+
+      <h3 class="sub">Why identify analog environments on Earth?</h3>
+      <ul class="motivos">
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-shield-check"/></svg>
+          <div><strong>Technology validation</strong><span>Test equipment and solutions under conditions similar to those on the Moon and Mars.</span></div></li>
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-triangle-alert"/></svg>
+          <div><strong>Lower risk</strong><span>Find failures and limitations before sending technology on space missions.</span></div></li>
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-piggy-bank"/></svg>
+          <div><strong>Lower cost</strong><span>Avoid unnecessary experimental missions and investment in unvalidated equipment.</span></div></li>
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-recycle"/></svg>
+          <div><strong>Space sustainability</strong><span>Reduce the waste left by failed missions and abandoned equipment.</span></div></li>
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-leaf"/></svg>
+          <div><strong>Environmental protection</strong><span>Minimize the impacts of space exploration and the risk of contaminating other worlds.</span></div></li>
+        <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-rocket"/></svg>
+          <div><strong>Readiness for future missions</strong><span>Develop more reliable technology for exploring and operating beyond Earth.</span></div></li>
+      </ul>
+
+      <p class="destaque-final"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-arrow-right"/></svg>
+        <span><strong>Our answer:</strong> for each target on the Moon and Mars, a ranking of the most similar places on
+          Earth, and how they match (terrain, ground cover, temperature or geology).</span></p>
+    </section>
+
+    <!-- Analysis -->
+    <section id="analise" class="secao">
+      <header class="cabeca-secao">
+        <h2 class="titulo-secao">Analysis</h2>
+        <p class="intro">Pick a target and a mission type; the site shows the most similar places on Earth and why.</p>
+      </header>
+
+      <nav class="passos-nav" aria-label="Analysis steps">
+        <a href="#passo-1"><span class="passo">1</span><span class="rot">Target</span></a>
+        <a href="#passo-2"><span class="passo">2</span><span class="rot">Mission</span></a>
+        <a href="#passo-3"><span class="passo">3</span><span class="rot">Ranking</span></a>
+        <a href="#detalhe-sec"><span class="passo">4</span><span class="rot">Compare</span></a>
+        <a href="#passo-5"><span class="passo">5</span><span class="rot">AI</span></a>
+        <a href="#clima-sec"><span class="passo">6</span><span class="rot">Climate</span></a>
+      </nav>
+
+      <div class="bloco" id="passo-1">
+        <h3 class="etapa"><span class="passo">1</span> Pick a target</h3>
+        <div class="abas" role="tablist" aria-label="Celestial body">
+          <button role="tab" class="aba" data-corpo="MOON" aria-selected="true">Moon — south pole (Artemis)</button>
+          <button role="tab" class="aba" data-corpo="MARS" aria-selected="false">Mars — landing sites</button>
+        </div>
+        <div id="alvos" class="alvos" role="radiogroup" aria-label="Target"></div>
+      </div>
+
+      <div class="bloco" id="passo-2">
+        <h3 class="etapa"><span class="passo">2</span> For which kind of mission?</h3>
+        <div id="missoes" class="missoes" role="radiogroup" aria-label="Mission type"></div>
+        <p id="missao-desc" class="legenda-filtro"></p>
+      </div>
+
+      <div class="bloco" id="passo-3">
+        <h3 class="etapa"><span class="passo">3</span> <span id="titulo-ranking" aria-live="polite">Most similar places on Earth</span></h3>
+        <div class="filtros">
+          <label class="check"><input type="checkbox" id="mostrar-controles"> show controls (cities and rainforest)</label>
+          <span class="legenda-icones"><span class="selo selo-esa">ESA</span> in ESA’s Catalogue of Planetary Analogues for this body</span>
+        </div>
+        <div class="grade-ranking">
+          <div class="cartao cartao-ranking">
+            <ol id="ranking" class="ranking" aria-describedby="nota-score"></ol>
+            <p id="nota-score" class="nota">Similarity from 0 to 100: 50 = as similar as a typical pair in this set;
+              100 = identical. A relative scale, not a probability.</p>
+          </div>
+          <div class="cartao cartao-globo">
+            <div id="globo" role="img" aria-label="3D globe of Earth with the analyzed places; the height of each bar shows the similarity with the target"></div>
+            <div id="legenda-globo" class="legenda-globo"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="bloco" id="detalhe-sec">
+        <h3 class="etapa"><span class="passo">4</span> <span id="titulo-detalhe" aria-live="polite">Compare</span></h3>
+        <div id="detalhe" class="detalhe"></div>
+      </div>
+
+      <div class="bloco" id="passo-5">
+        <h3 class="etapa"><span class="passo">5</span> Second opinion: AI clustering (ZEUS)</h3>
+        <p class="intro-bloco">Places the AI puts in the same group as the target, without being told what to look for.</p>
+        <div class="filtros">
+          <label for="k">Number of AI groups (k): <output id="k-valor"></output></label>
+          <div class="k-controle"><input type="range" id="k" min="2" max="10" step="1" list="k-lista">
+            <datalist id="k-lista"><option value="2"><option value="3"><option value="4"><option value="5"><option value="6"><option value="7"><option value="8"><option value="9"><option value="10"></datalist>
+            <div class="k-marcas" aria-hidden="true"><span>2</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div></div>
+        </div>
+        <div id="zeus" class="zeus"></div>
+        <details class="saiba">
+          <summary>Learn more about ZEUS</summary>
+          <p><a href="https://github.com/gmum/zeus" target="_blank" rel="noopener">ZEUS</a> is a pre-trained AI model
+            that groups the 9 km tiles without being told what to look for. Shown here are the places on Earth that fall in
+            the same group as some tile of the target. It only partly agrees with the ranking above.</p>
+          <p id="zeus-qualidade" class="nota"></p>
+        </details>
+      </div>
+
+      <div class="bloco" id="clima-sec">
+        <h3 class="etapa"><span class="passo">6</span> Third opinion: climate (Mars only)</h3>
+        <div id="clima"></div>
+      </div>
+
+      <div class="destaque-final" id="resultado-analise"></div>
+    </section>
+
+    <!-- Methodology -->
+    <section id="metodologia" class="secao">
+      <header class="cabeca-secao">
+        <h2 class="titulo-secao">Methodology</h2>
+        <p class="intro">How we turned maps of three worlds into one comparable ranking, in 7 steps.</p>
+      </header>
+      <ol class="pipeline">
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-scan"/></svg></span>
+          <h3><span class="pipe-num">1</span> Tiles</h3><p>Each place becomes up to 9 tiles of 9×9 km.</p>
+          <details class="saiba"><summary>Details</summary><p>Each place becomes up to 9 tiles of 9×9 km on a 40 m grid,
+            the finest grid shared by the data of all three bodies. That way a place does not depend on a single point.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-mountain"/></svg></span>
+          <h3><span class="pipe-num">2</span> Terrain</h3><p>Slope, roughness and relief of each tile.</p>
+          <details class="saiba"><summary>Sources and resolution</summary><p>Elevation models: NASADEM and ArcticDEM/REMA on
+            Earth, LOLA (20 m) on the Moon, CTX (20 m) on Mars. We compute slope, detrended roughness (small-scale
+            irregularities only) and relief.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-layers"/></svg></span>
+          <h3><span class="pipe-num">3</span> Ground cover</h3><p>How much of the ground is bare rock, ice, vegetation or city.</p>
+          <details class="saiba"><summary>Sources and resolution</summary><p>ESA WorldCover (10 m) on Earth and the AADC
+            rock outcrop map for Antarctica. On the Moon and Mars the whole surface is bare.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-thermometer"/></svg></span>
+          <h3><span class="pipe-num">4</span> Temperature</h3><p>Mean and maximum annual surface temperature.</p>
+          <details class="saiba"><summary>Sources and resolution</summary><p>NASA POWER (MERRA-2) on Earth, Diviner (LRO)
+            on the Moon and the NASA Ames climate model on Mars: annual mean and maximum.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-gem"/></svg></span>
+          <h3><span class="pipe-num">5</span> Geology</h3><p>Rock type in 6 classes shared by the three bodies.</p>
+          <details class="saiba"><summary>Sources and resolution</summary><p>Geologic maps (Macrostrat, USGS Moon 1:5M, USGS
+            Mars 1:20M) translated into 6 shared classes: volcanic, crystalline, sedimentary, evaporite, ice and impact.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-scale"/></svg></span>
+          <h3><span class="pipe-num">6</span> Similarity</h3><p>A 0–100 score, with equal weight for the 4 groups.</p>
+          <details class="saiba"><summary>Details</summary><p>We compare each tile of the target with the most similar tile
+            of each place on Earth, with equal weight for terrain, ground cover, temperature and geology, and show which
+            group makes them alike.</p></details></li>
+        <li><span class="pipe-ic"><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-cpu"/></svg></span>
+          <h3><span class="pipe-num">7</span> AI and validation</h3><p>Second and third opinions, and tests against published lists.</p>
+          <details class="saiba"><summary>Details</summary><p>ZEUS clusters the tiles as a second opinion, and a Mars
+            climate layer (Luís G. O. Miranda: NASA Ames model × 1 year of Meteomatics data) gives a third. We validate
+            against ESA’s Catalogue of Planetary Analogues and against control places (cities and rainforest).</p></details></li>
+      </ol>
+
+      <div class="grade-3">
+        <article class="cartao">
+          <h3>Why these features</h3>
+          <ul class="lista-ic">
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-plane-landing"/></svg><span><strong>Slope:</strong> landing safety, effort for rovers and astronauts.</span></li>
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-mountain"/></svg><span><strong>Roughness:</strong> boulders and grooves that stall wheels and landing legs.</span></li>
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-scan"/></svg><span><strong>Relief:</strong> line-of-sight communication, shadow and lighting.</span></li>
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-thermometer"/></svg><span><strong>Temperature:</strong> thermal design of equipment, batteries and suits.</span></li>
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-layers"/></svg><span><strong>Ground cover:</strong> dust, exposed surface and ice as a resource.</span></li>
+            <li><svg class="ic" aria-hidden="true"><use href="assets/icones.svg#i-gem"/></svg><span><strong>Geology:</strong> field science, sampling and use of local resources.</span></li>
+          </ul>
+        </article>
+        <article class="cartao">
+          <h3>Validation</h3>
+          <p class="nota explica-auc">AUC measures whether the method ranks the right places above the others:
+            0.5 = chance; 1 = perfect separation.</p>
+          <div id="validacao" class="tiles"></div>
+        </article>
+        <article class="cartao">
+          <h3>Limitations</h3>
+          <ul id="avisos" class="lista"></ul>
+          <details class="saiba" id="avisos-mais"><summary>See all limitations</summary><ul id="avisos-resto" class="lista"></ul></details>
+        </article>
+      </div>
+
+      <article class="cartao fontes">
+        <h3>Data sources and credits</h3>
+        <div id="fontes" class="fontes-grupos"></div>
+        <p class="nota">Source code, full methodology (METODOLOGIA.md) and all limitations (docs/LIMITACOES.md):
+          <a href="https://github.com/earthdevdefense/space-analogs" target="_blank" rel="noopener">github.com/earthdevdefense/space-analogs</a>.</p>
+      </article>
+
+      <div class="destaque-final" id="resultado-metodologia"></div>
+    </section>
+
+    <!-- Team -->
+    <section id="equipe" class="secao">
+      <header class="cabeca-secao">
+        <h2 class="titulo-secao">Team</h2>
+        <p class="intro">Who built this project at NASA Space Apps Challenge 2026 in Ouro Preto, Brazil.</p>
+      </header>
+      <div id="equipe-conteudo"></div>
+    </section>
+  </main>
+
+  <footer class="rodape">
+    <p><strong>Earth Dev Defense</strong> · NASA Space Apps Challenge 2026 · Ouro Preto, Brazil · public data
+      (NASA, ESA, USGS, PGC, AADC, Macrostrat) · protocol <span id="protocolo"></span> ·
+      <a href="https://github.com/earthdevdefense/space-analogs" target="_blank" rel="noopener">source code on GitHub</a></p>
+  </footer>
+
+  <div id="tooltip" class="tooltip" role="tooltip" hidden></div>
+  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.45.3/dist/globe.gl.min.js"></script>
+  <script src="app.js?v=16"></script>
+</body>
+</html>

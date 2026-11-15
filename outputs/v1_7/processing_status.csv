@@ -1,0 +1,924 @@
+tile_id,site_id,status,detail,protocol,etapa
+,earth_aconcagua,INFO,S33W070.HGT;S33W071.HGT,v1_4,terreno_v1_4
+earth_aconcagua_r1c1,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r1c2,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r1c3,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r2c1,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r2c2,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r2c3,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r3c1,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r3c2,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_aconcagua_r3c3,earth_aconcagua,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_arkaroola,INFO,S31E139.HGT,v1_4,terreno_v1_4
+earth_arkaroola_r1c1,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r1c2,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r1c3,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r2c1,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r2c2,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r2c3,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r3c1,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r3c2,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_arkaroola_r3c3,earth_arkaroola,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_atacama_chajnantor,INFO,S23W068.HGT;S24W068.HGT,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r1c1,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r1c2,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r1c3,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r2c1,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r2c2,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r2c3,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r3c1,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r3c2,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_chajnantor_r3c3,earth_atacama_chajnantor,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_atacama_yungay,INFO,S24W070.HGT;S24W071.HGT;S25W070.HGT;S25W071.HGT,v1_4,terreno_v1_4
+earth_atacama_yungay_r1c1,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r1c2,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r1c3,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r2c1,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r2c2,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r2c3,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r3c1,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r3c2,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_atacama_yungay_r3c3,earth_atacama_yungay,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_bacia_de_qaidam,INFO,N38E093.HGT,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r1c1,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r1c2,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r1c3,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r2c1,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r2c3,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r3c1,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r3c2,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_bacia_de_qaidam_r3c3,earth_bacia_de_qaidam,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_danakil_dallol,INFO,N14E040.HGT,v1_4,terreno_v1_4
+earth_danakil_dallol_r1c1,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r1c2,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r1c3,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r2c1,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r2c2,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r2c3,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r3c1,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r3c2,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_danakil_dallol_r3c3,earth_danakil_dallol,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_denali,INFO,49_12_32m_v4.1,v1_4,terreno_v1_4
+earth_denali_r1c1,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r1c2,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r1c3,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r2c1,earth_denali,DESCARTADO,cobertura 99.253% < 99.9% (378 px sem dado),v1_4,terreno_v1_4
+earth_denali_r2c2,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r2c3,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r3c1,earth_denali,DESCARTADO,cobertura 99.378% < 99.9% (315 px sem dado),v1_4,terreno_v1_4
+earth_denali_r3c2,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_denali_r3c3,earth_denali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_deserto_de_lut,INFO,N30E058.HGT;N30E059.HGT,v1_4,terreno_v1_4
+earth_deserto_de_lut_r1c1,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r1c2,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r1c3,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r2c1,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r2c2,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r2c3,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r3c1,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r3c2,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_lut_r3c3,earth_deserto_de_lut,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_deserto_de_mojave,INFO,N34W116.HGT;N35W116.HGT,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r1c1,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r1c2,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r1c3,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r2c1,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r2c3,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r3c1,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r3c2,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_mojave_r3c3,earth_deserto_de_mojave,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_deserto_de_simpson,INFO,S25E136.HGT;S25E137.HGT;S26E136.HGT;S26E137.HGT,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r1c1,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r1c2,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r1c3,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r2c1,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r2c3,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r3c1,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r3c2,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_deserto_de_simpson_r3c3,earth_deserto_de_simpson,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_dome_argus,INFO,33_41_32m_v2.0,v1_4,terreno_v1_4
+earth_dome_argus_r1c1,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r1c2,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r1c3,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r2c1,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r2c2,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r2c3,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r3c1,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r3c2,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_argus_r3c3,earth_dome_argus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_dome_c,INFO,21_44_32m_v2.0;22_44_32m_v2.0,v1_4,terreno_v1_4
+earth_dome_c_r1c1,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r1c2,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r1c3,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r2c1,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r2c2,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r2c3,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r3c1,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r3c2,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_dome_c_r3c3,earth_dome_c,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_everest,INFO,N27E086.HGT;N27E087.HGT;N28E086.HGT;N28E087.HGT,v1_4,terreno_v1_4
+earth_everest_r1c1,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r1c2,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r1c3,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r2c1,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r2c2,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r2c3,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r3c1,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r3c2,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_everest_r3c3,earth_everest,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_gobi,INFO,N42E104.HGT;N42E105.HGT,v1_4,terreno_v1_4
+earth_gobi_r1c1,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r1c2,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r1c3,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r2c1,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r2c2,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r2c3,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r3c1,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r3c2,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_gobi_r3c3,earth_gobi,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_groenlandia_summit,INFO,21_43_32m_v4.1;22_43_32m_v4.1,v1_4,terreno_v1_4
+earth_groenlandia_summit_r1c1,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r1c2,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r1c3,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r2c1,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r2c2,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r2c3,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r3c1,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r3c2,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_groenlandia_summit_r3c3,earth_groenlandia_summit,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_ilha_devon_haughton,INFO,29_29_32m_v4.1,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r1c1,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r1c2,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r1c3,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r2c1,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r2c2,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r2c3,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r3c1,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r3c2,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ilha_devon_haughton_r3c3,earth_ilha_devon_haughton,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_islandia_askja,INFO,16_53_32m_v4.1;16_54_32m_v4.1,v1_4,terreno_v1_4
+earth_islandia_askja_r1c1,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r1c2,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r1c3,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r2c1,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r2c2,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r2c3,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r3c1,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r3c2,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_islandia_askja_r3c3,earth_islandia_askja,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_kilimanjaro,INFO,S03E037.HGT;S04E037.HGT,v1_4,terreno_v1_4
+earth_kilimanjaro_r1c1,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r1c2,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r1c3,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r2c1,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r2c2,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r2c3,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r3c1,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r3c2,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_kilimanjaro_r3c3,earth_kilimanjaro,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_ladakh,INFO,N34E077.HGT,v1_4,terreno_v1_4
+earth_ladakh_r1c1,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r1c2,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r1c3,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r2c1,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r2c2,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r2c3,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r3c1,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r3c2,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ladakh_r3c3,earth_ladakh,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_lanzarote,INFO,N28W014.HGT;N29W014.HGT,v1_4,terreno_v1_4
+earth_lanzarote_r1c1,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r1c2,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r1c3,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r2c1,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r2c2,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r2c3,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r3c1,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r3c2,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_lanzarote_r3c3,earth_lanzarote,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_licancabur,INFO,S23W068.HGT;S23W069.HGT,v1_4,terreno_v1_4
+earth_licancabur_r1c1,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r1c2,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r1c3,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r2c1,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r2c2,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r2c3,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r3c1,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r3c2,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_licancabur_r3c3,earth_licancabur,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_londres,INFO,N51E000.HGT;N51W001.HGT,v1_4,terreno_v1_4
+earth_londres_r1c1,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r1c2,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r1c3,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r2c1,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r2c2,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r2c3,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r3c1,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r3c2,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_londres_r3c3,earth_londres,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_manaus,INFO,S03W060.HGT;S03W061.HGT;S04W060.HGT;S04W061.HGT,v1_4,terreno_v1_4
+earth_manaus_r1c1,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r1c2,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r1c3,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r2c1,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r2c2,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r2c3,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r3c1,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r3c2,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_manaus_r3c3,earth_manaus,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_mauna_loa_hi_seas,INFO,N19W156.HGT,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r1c1,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r1c2,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r1c3,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r2c1,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r2c2,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r2c3,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r3c1,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r3c2,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_mauna_loa_hi_seas_r3c3,earth_mauna_loa_hi_seas,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_namibe,INFO,S25E015.HGT,v1_4,terreno_v1_4
+earth_namibe_r1c1,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r1c2,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r1c3,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r2c1,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r2c2,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r2c3,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r3c1,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r3c2,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_namibe_r3c3,earth_namibe,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_nova_york,INFO,N40W074.HGT;N40W075.HGT,v1_4,terreno_v1_4
+earth_nova_york_r1c1,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r1c2,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r1c3,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r2c1,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r2c2,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r2c3,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r3c1,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r3c2,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_nova_york_r3c3,earth_nova_york,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_ojos_del_salado,INFO,S27W069.HGT;S28W069.HGT,v1_4,terreno_v1_4
+earth_ojos_del_salado_r1c1,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r1c2,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r1c3,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r2c1,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r2c2,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r2c3,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r3c1,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r3c2,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_ojos_del_salado_r3c3,earth_ojos_del_salado,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_oymyakon,INFO,69_36_32m_v4.1;69_37_32m_v4.1;70_36_32m_v4.1;70_37_32m_v4.1,v1_4,terreno_v1_4
+earth_oymyakon_r1c1,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r1c2,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r1c3,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r2c1,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r2c2,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r2c3,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r3c1,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r3c2,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_oymyakon_r3c3,earth_oymyakon,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_pilbara,INFO,S22E119.HGT,v1_4,terreno_v1_4
+earth_pilbara_r1c1,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r1c2,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r1c3,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r2c1,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r2c2,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r2c3,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r3c1,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r3c2,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_pilbara_r3c3,earth_pilbara,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_planalto_do_tibete_changtang,INFO,N32E085.HGT;N32E086.HGT;N33E085.HGT;N33E086.HGT,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r1c1,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r1c2,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r1c3,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r2c1,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r2c2,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r2c3,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r3c1,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r3c2,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_planalto_do_tibete_changtang_r3c3,earth_planalto_do_tibete_changtang,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_rio_tinto,INFO,N37W007.HGT,v1_4,terreno_v1_4
+earth_rio_tinto_r1c1,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r1c2,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r1c3,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r2c1,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r2c2,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r2c3,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r3c1,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r3c2,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rio_tinto_r3c3,earth_rio_tinto,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_rub_al_khali,INFO,N19E049.HGT;N19E050.HGT;N20E049.HGT;N20E050.HGT,v1_4,terreno_v1_4
+earth_rub_al_khali_r1c1,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r1c2,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r1c3,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r2c1,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r2c2,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r2c3,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r3c1,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r3c2,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_rub_al_khali_r3c3,earth_rub_al_khali,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_saara_tanezrouft,INFO,N23E000.HGT;N23W001.HGT;N24E000.HGT;N24W001.HGT,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r1c1,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r1c2,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r1c3,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r2c1,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r2c3,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r3c1,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r3c2,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_saara_tanezrouft_r3c3,earth_saara_tanezrouft,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_salar_de_uyuni,INFO,S20W068.HGT;S21W068.HGT,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r1c1,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r1c2,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r1c3,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r2c1,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r2c3,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r3c1,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r3c2,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_salar_de_uyuni_r3c3,earth_salar_de_uyuni,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_sao_paulo,INFO,S24W047.HGT,v1_4,terreno_v1_4
+earth_sao_paulo_r1c1,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r1c2,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r1c3,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r2c1,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r2c2,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r2c3,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r3c1,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r3c2,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_sao_paulo_r3c3,earth_sao_paulo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_singapura,INFO,N01E103.HGT,v1_4,terreno_v1_4
+earth_singapura_r1c1,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r1c2,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r1c3,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r2c1,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r2c2,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r2c3,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r3c1,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r3c2,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_singapura_r3c3,earth_singapura,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_svalbard_bockfjorden,INFO,34_50_32m_v4.1;35_50_32m_v4.1,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r1c1,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r1c2,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r1c3,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r2c1,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r2c3,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r3c1,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r3c2,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_svalbard_bockfjorden_r3c3,earth_svalbard_bockfjorden,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_teide,INFO,N28W017.HGT,v1_4,terreno_v1_4
+earth_teide_r1c1,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r1c2,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r1c3,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r2c1,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r2c2,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r2c3,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r3c1,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r3c2,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_teide_r3c3,earth_teide,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_utah_mdrs,INFO,N38W111.HGT,v1_4,terreno_v1_4
+earth_utah_mdrs_r1c1,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r1c2,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r1c3,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r2c1,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r2c2,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r2c3,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r3c1,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r3c2,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_utah_mdrs_r3c3,earth_utah_mdrs,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_vale_da_morte,INFO,N36W117.HGT;N36W118.HGT,v1_4,terreno_v1_4
+earth_vale_da_morte_r1c1,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r1c2,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r1c3,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r2c1,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r2c2,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r2c3,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r3c1,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r3c2,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vale_da_morte_r3c3,earth_vale_da_morte,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_vales_secos_de_mcmurdo,INFO,17_34_32m_v2.0;17_35_32m_v2.0;18_34_32m_v2.0;18_35_32m_v2.0,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r1c1,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r1c2,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r1c3,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r2c1,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r2c3,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r3c1,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r3c2,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vales_secos_de_mcmurdo_r3c3,earth_vales_secos_de_mcmurdo,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_vostok,INFO,27_42_32m_v2.0;27_43_32m_v2.0,v1_4,terreno_v1_4
+earth_vostok_r1c1,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r1c2,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r1c3,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r2c1,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r2c2,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r2c3,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r3c1,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r3c2,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_vostok_r3c3,earth_vostok,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,earth_wadi_rum,INFO,N29E035.HGT,v1_4,terreno_v1_4
+earth_wadi_rum_r1c1,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r1c2,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r1c3,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r2c1,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r2c2,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r2c3,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r3c1,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r3c2,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+earth_wadi_rum_r3c3,earth_wadi_rum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r1c1,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r1c2,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r1c3,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r2c1,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r2c2,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r2c3,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r3c1,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r3c2,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_haworth_r3c3,moon_haworth,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r1c1,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r1c2,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r1c3,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r2c1,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r2c2,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r2c3,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r3c1,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r3c2,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_malapert_massif_r3c3,moon_malapert_massif,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r1c1,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r1c2,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r1c3,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r2c1,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r2c2,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r2c3,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r3c1,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r3c2,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_mons_mouton_plateau_r3c3,moon_mons_mouton_plateau,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r1c1,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r1c2,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r1c3,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r2c1,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r2c2,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r2c3,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r3c1,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r3c2,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_nobile_rim_2_r3c3,moon_nobile_rim_2,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r1c1,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r1c2,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r1c3,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r2c1,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r2c2,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r2c3,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r3c1,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r3c2,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_de_gerlache_rim_r3c3,moon_de_gerlache_rim,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r1c1,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r1c2,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r1c3,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r2c1,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r2c2,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r2c3,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r3c1,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r3c2,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+moon_connecting_ridge_r3c3,moon_connecting_ridge,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r1c1,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r1c2,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r1c3,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r2c1,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r2c2,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r2c3,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r3c1,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r3c2,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_jezero_r3c3,mars_jezero,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,mars_gale,INFO,P22_009505_1753_XI_04S222W__P22_009571_1756_XI_04S222W [dem]; 100 DTMs no ponto; testados pelos dados: P22_009716_1773_XI_02S223W__G04_019698_1747_XI_05S222W: 9 recortes válidos | P22_009650_1772_XI_02S222W__P22_009716_1773_XI_02S223W: 9 recortes válidos | P22_009650_1772_XI_02S222W__G04_019698_1747_XI_05S222W: 9 recortes válidos | P22_009716_1773_XI_02S223W__J09_048273_1747_XN_05S222W: 6 recortes válidos | P22_009650_1772_XI_02S222W__P02_001752_1753_XI_04S222W: 9 recortes válidos | P22_009505_1753_XI_04S222W__P22_009571_1756_XI_04S222W: 9 recortes válidos,v1_4,terreno_v1_4
+mars_gale_r2c1,mars_gale,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gale_r1c1,mars_gale,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gale_r2c2,mars_gale,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gale_r3c1,mars_gale,OK,4 px NoData; cobertura métricas 98.64%/89.11%,v1_4,terreno_v1_4
+mars_gale_r1c2,mars_gale,OK,4 px NoData; cobertura métricas 99.47%/95.36%,v1_4,terreno_v1_4
+mars_gale_r4c1,mars_gale,OK,cobertura métricas 100.00%/98.70%,v1_4,terreno_v1_4
+mars_gale_r4c2,mars_gale,OK,21 px NoData; cobertura métricas 98.96%/92.44%,v1_4,terreno_v1_4
+mars_gale_r5c2,mars_gale,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gale_r6c2,mars_gale,OK,28 px NoData; cobertura métricas 98.16%/91.79%,v1_4,terreno_v1_4
+,mars_insight,INFO,N06_064664_1859_XN_05N224W__K21_061684_1823_XN_02N224W [dem]; 100 DTMs no ponto; testados pelos dados: N06_064664_1859_XN_05N224W__N13_067632_1860_XI_06N224W: 9 recortes válidos | N04_063952_1856_XN_05N224W__N03_063385_1867_XI_06N224W: 1 recortes válidos | N06_064664_1859_XN_05N224W__K21_061684_1823_XN_02N224W: 9 recortes válidos | N06_064664_1859_XN_05N224W__N15_068239_1823_XN_02N224W: 9 recortes válidos | N13_067632_1860_XI_06N224W__N07_065218_1824_XN_02N224W: 4 recortes válidos | N13_067632_1860_XI_06N224W__K21_061684_1823_XN_02N224W: 9 recortes válidos,v1_4,terreno_v1_4
+mars_insight_r3c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r2c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r4c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r1c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r5c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r1c1,mars_insight,OK,cobertura métricas 100.00%/99.91%,v1_4,terreno_v1_4
+mars_insight_r5c3,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r6c2,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_insight_r6c3,mars_insight,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,mars_oxia_planum,INFO,B01_009880_1977_XN_17N024W__P22_009735_1977_XN_17N024W [dtm]; 10 DTMs no ponto; testados pelos dados: B01_009880_1977_XN_17N024W__P22_009735_1977_XN_17N024W: 9 recortes válidos | J05_046934_1985_XN_18N025W__N05_064182_1985_XN_18N025W: 9 recortes válidos | N06_064538_1963_XN_16N024W__N06_064828_1963_XN_16N024W: 9 recortes válidos | J11_049215_1984_XN_18N024W__K12_058169_1985_XN_18N024W: 9 recortes válidos | N09_065936_1995_XN_19N025W__N10_066147_1995_XN_19N025W: 9 recortes válidos | K20_061136_1986_XN_18N024W__F21_044178_1988_XN_18N024W: 9 recortes válidos,v1_4,terreno_v1_4
+mars_oxia_planum_r3c1,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r2c1,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r3c2,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r4c1,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r2c2,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r4c2,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r1c1,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_oxia_planum_r5c1,mars_oxia_planum,OK,cobertura métricas 100.00%/99.98%,v1_4,terreno_v1_4
+mars_oxia_planum_r1c2,mars_oxia_planum,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+,mars_meridiani,INFO,F13_040828_1778_XN_02S005W__F13_040973_1778_XN_02S005W [dtm]; 6 DTMs no ponto; testados pelos dados: G02_018912_1779_XN_02S005W__G04_019980_1779_XN_02S005W: 0 recortes válidos | K13_058564_1776_XN_02S005W__K14_058854_1776_XN_02S005W: 0 recortes válidos | D22_035909_1778_XN_02S005W__D21_035408_1772_XN_02S005W: 0 recortes válidos | F13_040828_1778_XN_02S005W__F13_040973_1778_XN_02S005W: 1 recortes válidos | B05_011765_1780_XN_02S005W__B08_012820_1779_XN_02S005W: 0 recortes válidos | G01_018701_1776_XN_02S005W__G02_018846_1791_XN_00S005W: 0 recortes válidos,v1_4,terreno_v1_4
+mars_meridiani_r1c1,mars_meridiani,OK,17 px NoData; cobertura métricas 97.64%/83.05%,v1_4,terreno_v1_4
+,mars_gusev,INFO,P07_003900_1653_XI_14S184W__G01_018523_1653_XI_14S184W [dem]; 100 DTMs no ponto; testados pelos dados: P14_006524_1654_XN_14S184W__K05_055458_1653_XN_14S184W: RasterioIOError: HTTP response code: 404 | P14_006524_1654_XN_14S184W__F20_043551_1654_XN_14S184W: 7 recortes válidos | P07_003900_1653_XI_14S184W__G01_018523_1653_XI_14S184W: 8 recortes válidos | P07_003900_1653_XI_14S184W__J01_045318_1653_XN_14S184W: 8 recortes válidos | P14_006524_1654_XN_14S184W__D20_034874_1653_XN_14S184W: 5 recortes válidos | P14_006524_1654_XN_14S184W__G03_019301_1652_XI_14S184W: 6 recortes válidos,v1_4,terreno_v1_4
+mars_gusev_r2c1,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r1c1,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r2c2,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r3c1,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r1c2,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r3c2,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r4c1,mars_gusev,OK,cobertura métricas 100.00%/100.00%,v1_4,terreno_v1_4
+mars_gusev_r4c2,mars_gusev,OK,cobertura métricas 99.82%/97.96%,v1_4,terreno_v1_4
+earth_aconcagua_r1c1,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r1c2,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r1c3,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r2c1,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r2c2,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r2c3,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r3c1,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r3c2,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_aconcagua_r3c3,earth_aconcagua,OK,WorldCover S33W072; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r1c1,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r1c2,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r1c3,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r2c1,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r2c2,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r2c3,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r3c1,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r3c2,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_arkaroola_r3c3,earth_arkaroola,OK,WorldCover S33E138; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r1c1,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r1c2,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r1c3,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r2c1,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r2c2,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r2c3,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r3c1,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r3c2,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_chajnantor_r3c3,earth_atacama_chajnantor,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r1c1,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r1c2,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r1c3,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r2c1,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r2c2,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r2c3,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r3c1,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r3c2,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_atacama_yungay_r3c3,earth_atacama_yungay,OK,WorldCover S27W072;S24W072; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r1c1,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r1c2,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r1c3,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r2c1,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r2c3,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r3c1,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r3c2,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_bacia_de_qaidam_r3c3,earth_bacia_de_qaidam,OK,WorldCover N36E093; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r1c1,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r1c2,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r1c3,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r2c1,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r2c2,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r2c3,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r3c1,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r3c2,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_danakil_dallol_r3c3,earth_danakil_dallol,OK,WorldCover N12E039; 100.00% com dado,v1_5,cobertura
+earth_denali_r1c1,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r1c2,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r1c3,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r2c2,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r2c3,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r3c2,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_denali_r3c3,earth_denali,OK,WorldCover N60W153;N63W153; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r1c1,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r1c2,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r1c3,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r2c1,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r2c2,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r2c3,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r3c1,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r3c2,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_lut_r3c3,earth_deserto_de_lut,OK,WorldCover N30E057; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r1c1,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r1c2,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r1c3,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r2c1,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r2c3,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r3c1,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r3c2,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_mojave_r3c3,earth_deserto_de_mojave,OK,WorldCover N33W117; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r1c1,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r1c2,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r1c3,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r2c1,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r2c3,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r3c1,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r3c2,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_deserto_de_simpson_r3c3,earth_deserto_de_simpson,OK,WorldCover S27E135; 100.00% com dado,v1_5,cobertura
+earth_dome_argus_r1c1,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r1c2,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r1c3,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r2c1,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r2c2,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r2c3,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r3c1,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r3c2,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_argus_r3c3,earth_dome_argus,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r1c1,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r1c2,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r1c3,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r2c1,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r2c2,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r2c3,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r3c1,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r3c2,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_dome_c_r3c3,earth_dome_c,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_everest_r1c1,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r1c2,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r1c3,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r2c1,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r2c2,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r2c3,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r3c1,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r3c2,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_everest_r3c3,earth_everest,OK,WorldCover N27E084;N27E087; 100.00% com dado,v1_5,cobertura
+earth_gobi_r1c1,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r1c2,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r1c3,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r2c1,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r2c2,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r2c3,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r3c1,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r3c2,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_gobi_r3c3,earth_gobi,OK,WorldCover N42E102;N42E105; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r1c1,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r1c2,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r1c3,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r2c1,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r2c2,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r2c3,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r3c1,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r3c2,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_groenlandia_summit_r3c3,earth_groenlandia_summit,OK,WorldCover N72W039; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r1c1,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r1c2,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r1c3,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r2c1,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r2c2,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r2c3,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r3c1,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r3c2,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_ilha_devon_haughton_r3c3,earth_ilha_devon_haughton,OK,WorldCover N75W093;N75W090; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r1c1,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r1c2,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r1c3,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r2c1,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r2c2,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r2c3,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r3c1,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r3c2,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_islandia_askja_r3c3,earth_islandia_askja,OK,WorldCover N63W018; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r1c1,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r1c2,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r1c3,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r2c1,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r2c2,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r2c3,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r3c1,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r3c2,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_kilimanjaro_r3c3,earth_kilimanjaro,OK,WorldCover S06E036;S03E036; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r1c1,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r1c2,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r1c3,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r2c1,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r2c2,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r2c3,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r3c1,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r3c2,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_ladakh_r3c3,earth_ladakh,OK,WorldCover N33E075; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r1c1,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r1c2,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r1c3,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r2c1,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r2c2,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r2c3,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r3c1,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r3c2,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_lanzarote_r3c3,earth_lanzarote,OK,WorldCover N27W015; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r1c1,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r1c2,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r1c3,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r2c1,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r2c2,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r2c3,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r3c1,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r3c2,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_licancabur_r3c3,earth_licancabur,OK,WorldCover S24W069; 100.00% com dado,v1_5,cobertura
+earth_londres_r1c1,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r1c2,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r1c3,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r2c1,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r2c2,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r2c3,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r3c1,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r3c2,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_londres_r3c3,earth_londres,OK,WorldCover N51W003;N51E000; 100.00% com dado,v1_5,cobertura
+earth_manaus_r1c1,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r1c2,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r1c3,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r2c1,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r2c2,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r2c3,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r3c1,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r3c2,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_manaus_r3c3,earth_manaus,OK,WorldCover S06W063;S06W060;S03W063;S03W060; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r1c1,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r1c2,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r1c3,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r2c1,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r2c2,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r2c3,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r3c1,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r3c2,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_mauna_loa_hi_seas_r3c3,earth_mauna_loa_hi_seas,OK,WorldCover N18W156; 100.00% com dado,v1_5,cobertura
+earth_namibe_r1c1,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r1c2,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r1c3,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r2c1,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r2c2,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r2c3,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r3c1,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r3c2,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_namibe_r3c3,earth_namibe,OK,WorldCover S27E015; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r1c1,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r1c2,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r1c3,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r2c1,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r2c2,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r2c3,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r3c1,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r3c2,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_nova_york_r3c3,earth_nova_york,OK,WorldCover N39W075; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r1c1,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r1c2,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r1c3,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r2c1,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r2c2,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r2c3,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r3c1,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r3c2,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_ojos_del_salado_r3c3,earth_ojos_del_salado,OK,WorldCover S30W069;S27W069; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r1c1,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r1c2,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r1c3,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r2c1,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r2c2,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r2c3,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r3c1,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r3c2,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_oymyakon_r3c3,earth_oymyakon,OK,WorldCover N63E141; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r1c1,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r1c2,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r1c3,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r2c1,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r2c2,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r2c3,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r3c1,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r3c2,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_pilbara_r3c3,earth_pilbara,OK,WorldCover S24E117; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r1c1,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r1c2,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r1c3,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r2c1,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r2c2,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r2c3,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r3c1,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r3c2,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_planalto_do_tibete_changtang_r3c3,earth_planalto_do_tibete_changtang,OK,WorldCover N30E084;N33E084; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r1c1,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r1c2,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r1c3,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r2c1,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r2c2,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r2c3,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r3c1,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r3c2,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rio_tinto_r3c3,earth_rio_tinto,OK,WorldCover N36W009; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r1c1,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r1c2,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r1c3,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r2c1,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r2c2,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r2c3,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r3c1,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r3c2,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_rub_al_khali_r3c3,earth_rub_al_khali,OK,WorldCover N18E048; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r1c1,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r1c2,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r1c3,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r2c1,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r2c3,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r3c1,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r3c2,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_saara_tanezrouft_r3c3,earth_saara_tanezrouft,OK,WorldCover N21W003;N21E000;N24W003;N24E000; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r1c1,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r1c2,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r1c3,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r2c1,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r2c3,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r3c1,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r3c2,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_salar_de_uyuni_r3c3,earth_salar_de_uyuni,OK,WorldCover S21W069; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r1c1,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r1c2,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r1c3,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r2c1,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r2c2,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r2c3,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r3c1,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r3c2,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_sao_paulo_r3c3,earth_sao_paulo,OK,WorldCover S24W048; 100.00% com dado,v1_5,cobertura
+earth_singapura_r1c1,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r1c2,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r1c3,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r2c1,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r2c2,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r2c3,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r3c1,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r3c2,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_singapura_r3c3,earth_singapura,OK,WorldCover N00E102; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r1c1,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r1c2,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r1c3,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r2c1,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r2c3,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r3c1,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r3c2,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_svalbard_bockfjorden_r3c3,earth_svalbard_bockfjorden,OK,WorldCover N78E012; 100.00% com dado,v1_5,cobertura
+earth_teide_r1c1,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r1c2,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r1c3,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r2c1,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r2c2,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r2c3,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r3c1,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r3c2,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_teide_r3c3,earth_teide,OK,WorldCover N27W018; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r1c1,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r1c2,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r1c3,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r2c1,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r2c2,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r2c3,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r3c1,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r3c2,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_utah_mdrs_r3c3,earth_utah_mdrs,OK,WorldCover N36W111; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r1c1,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r1c2,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r1c3,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r2c1,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r2c2,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r2c3,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r3c1,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r3c2,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vale_da_morte_r3c3,earth_vale_da_morte,OK,WorldCover N36W120;N36W117; 100.00% com dado,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r1c1,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 24.9%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r1c2,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 85.8%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r1c3,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 83.1%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r2c1,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 72.5%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 85.2%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r2c3,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 42.9%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r3c1,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 80.8%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r3c2,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 53.5%,v1_5,cobertura
+earth_vales_secos_de_mcmurdo_r3c3,earth_vales_secos_de_mcmurdo,OK,Antártida: mapa de afloramentos AADC; rocha exposta 57.1%,v1_5,cobertura
+earth_vostok_r1c1,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r1c2,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r1c3,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r2c1,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r2c2,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r2c3,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r3c1,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r3c2,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_vostok_r3c3,earth_vostok,OK,Antártida: mapa de afloramentos AADC; rocha exposta 0.0%,v1_5,cobertura
+earth_wadi_rum_r1c1,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r1c2,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r1c3,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r2c1,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r2c2,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r2c3,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r3c1,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r3c2,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_wadi_rum_r3c3,earth_wadi_rum,OK,WorldCover N27E033; 100.00% com dado,v1_5,cobertura
+earth_singapura_r1c1,earth_singapura,PENDENTE,sem geologia; recorte fora da v1_7,v1_7,geologia
+earth_singapura_r1c3,earth_singapura,PENDENTE,sem geologia; recorte fora da v1_7,v1_7,geologia
+earth_singapura_r3c1,earth_singapura,PENDENTE,sem geologia; recorte fora da v1_7,v1_7,geologia
+earth_singapura_r3c3,earth_singapura,PENDENTE,sem geologia; recorte fora da v1_7,v1_7,geologia

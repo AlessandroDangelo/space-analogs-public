@@ -1,0 +1,227 @@
+k,cluster,tile_id,site_id,site_name,tipo,divide_com_MOON,divide_com_MARS
+2,0,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+2,0,earth_arkaroola_r2c2,earth_arkaroola,Arkaroola,candidato,moon_001_r2c2,
+2,0,earth_atacama_chajnantor_r2c2,earth_atacama_chajnantor,Atacama - Chajnantor,candidato,moon_001_r2c2,
+2,0,earth_atacama_yungay_r2c2,earth_atacama_yungay,Atacama - Yungay,candidato,moon_001_r2c2,
+2,0,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+2,0,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+2,0,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+2,0,earth_islandia_askja_r2c2,earth_islandia_askja,Islandia - Askja,candidato,moon_001_r2c2,
+2,0,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+2,0,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+2,0,earth_lanzarote_r2c2,earth_lanzarote,Lanzarote,candidato,moon_001_r2c2,
+2,0,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+2,0,earth_mauna_loa_hi_seas_r2c2,earth_mauna_loa_hi_seas,Mauna Loa - HI-SEAS,candidato,moon_001_r2c2,
+2,0,earth_namibe_r2c2,earth_namibe,Namibe,candidato,moon_001_r2c2,
+2,0,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+2,0,earth_pilbara_r2c2,earth_pilbara,Pilbara,candidato,moon_001_r2c2,
+2,0,earth_planalto_do_tibete_changtang_r2c2,earth_planalto_do_tibete_changtang,Planalto do Tibete - Changtang,candidato,moon_001_r2c2,
+2,0,earth_rio_tinto_r2c2,earth_rio_tinto,Rio Tinto,candidato,moon_001_r2c2,
+2,0,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+2,0,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+2,0,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+2,0,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+2,0,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+2,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+2,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+2,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+2,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+2,1,earth_dome_argus_r2c2,earth_dome_argus,Dome Argus,candidato,,mars_001_r2c2
+2,1,earth_dome_c_r2c2,earth_dome_c,Dome C,candidato,,mars_001_r2c2
+2,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+2,1,earth_groenlandia_summit_r2c2,earth_groenlandia_summit,Groenlandia - Summit,candidato,,mars_001_r2c2
+2,1,earth_ilha_devon_haughton_r2c2,earth_ilha_devon_haughton,Ilha Devon - Haughton,candidato,,mars_001_r2c2
+2,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+2,1,earth_manaus_r2c2,earth_manaus,Manaus,controle,,mars_001_r2c2
+2,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+2,1,earth_oymyakon_r2c2,earth_oymyakon,Oymyakon,candidato,,mars_001_r2c2
+2,1,earth_rub_al_khali_r2c2,earth_rub_al_khali,Rub al Khali,candidato,,mars_001_r2c2
+2,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+2,1,earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,Salar de Uyuni,candidato,,mars_001_r2c2
+2,1,earth_sao_paulo_r2c2,earth_sao_paulo,Sao Paulo,controle,,mars_001_r2c2
+2,1,earth_singapura_r2c2,earth_singapura,Singapura,controle,,mars_001_r2c2
+2,1,earth_utah_mdrs_r2c2,earth_utah_mdrs,Utah - MDRS,candidato,,mars_001_r2c2
+2,1,earth_vostok_r2c2,earth_vostok,Vostok,candidato,,mars_001_r2c2
+3,0,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+3,0,earth_arkaroola_r2c2,earth_arkaroola,Arkaroola,candidato,moon_001_r2c2,
+3,0,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+3,0,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+3,0,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+3,0,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+3,0,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+3,0,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+3,0,earth_namibe_r2c2,earth_namibe,Namibe,candidato,moon_001_r2c2,
+3,0,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+3,0,earth_rio_tinto_r2c2,earth_rio_tinto,Rio Tinto,candidato,moon_001_r2c2,
+3,0,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+3,0,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+3,0,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+3,0,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+3,0,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+3,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+3,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+3,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+3,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+3,1,earth_dome_argus_r2c2,earth_dome_argus,Dome Argus,candidato,,mars_001_r2c2
+3,1,earth_dome_c_r2c2,earth_dome_c,Dome C,candidato,,mars_001_r2c2
+3,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+3,1,earth_groenlandia_summit_r2c2,earth_groenlandia_summit,Groenlandia - Summit,candidato,,mars_001_r2c2
+3,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+3,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+3,1,earth_oymyakon_r2c2,earth_oymyakon,Oymyakon,candidato,,mars_001_r2c2
+3,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+3,1,earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,Salar de Uyuni,candidato,,mars_001_r2c2
+3,1,earth_vostok_r2c2,earth_vostok,Vostok,candidato,,mars_001_r2c2
+4,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+4,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+4,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+4,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+4,1,earth_dome_argus_r2c2,earth_dome_argus,Dome Argus,candidato,,mars_001_r2c2
+4,1,earth_dome_c_r2c2,earth_dome_c,Dome C,candidato,,mars_001_r2c2
+4,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+4,1,earth_groenlandia_summit_r2c2,earth_groenlandia_summit,Groenlandia - Summit,candidato,,mars_001_r2c2
+4,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+4,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+4,1,earth_oymyakon_r2c2,earth_oymyakon,Oymyakon,candidato,,mars_001_r2c2
+4,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+4,1,earth_salar_de_uyuni_r2c2,earth_salar_de_uyuni,Salar de Uyuni,candidato,,mars_001_r2c2
+4,1,earth_vostok_r2c2,earth_vostok,Vostok,candidato,,mars_001_r2c2
+4,3,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+4,3,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+4,3,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+4,3,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+4,3,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+4,3,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+4,3,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+4,3,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+4,3,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+4,3,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+4,3,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+4,3,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+4,3,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+5,3,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+5,3,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+5,3,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+5,3,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+5,3,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+5,3,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+5,3,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+5,3,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+5,3,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+5,3,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+5,3,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+5,3,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+5,3,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+5,4,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+5,4,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+5,4,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+5,4,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+5,4,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+5,4,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+5,4,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+5,4,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+6,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+6,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+6,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+6,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+6,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+6,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+6,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+6,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+6,3,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+6,3,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+6,3,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+6,3,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+6,3,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+6,3,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+6,3,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+6,3,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+6,3,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+6,3,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+6,3,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+6,3,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+6,3,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+7,0,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+7,0,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+7,0,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+7,0,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+7,0,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+7,0,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+7,0,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+7,0,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+7,0,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+7,0,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+7,0,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+7,0,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+7,0,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+7,4,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+7,4,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+7,4,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+7,4,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+7,4,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+7,4,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+7,4,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+7,4,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+8,0,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+8,0,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+8,0,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+8,0,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+8,0,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+8,0,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+8,0,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+8,0,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+8,0,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+8,0,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+8,0,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+8,0,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+8,0,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+8,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+8,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+8,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+8,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+8,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+8,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+8,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+8,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+9,0,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+9,0,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+9,0,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+9,0,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+9,0,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+9,0,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+9,0,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+9,0,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+9,1,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+9,1,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+9,1,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+9,1,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+9,1,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+9,1,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+9,1,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+9,1,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+9,1,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+9,1,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+9,1,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+9,1,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+9,1,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
+10,1,earth_bacia_de_qaidam_r2c2,earth_bacia_de_qaidam,Bacia de Qaidam,candidato,,mars_001_r2c2
+10,1,earth_danakil_dallol_r2c2,earth_danakil_dallol,Danakil - Dallol,candidato,,mars_001_r2c2
+10,1,earth_deserto_de_lut_r2c2,earth_deserto_de_lut,Deserto de Lut,candidato,,mars_001_r2c2
+10,1,earth_deserto_de_simpson_r2c2,earth_deserto_de_simpson,Deserto de Simpson,candidato,,mars_001_r2c2
+10,1,earth_gobi_r2c2,earth_gobi,Gobi,candidato,,mars_001_r2c2
+10,1,earth_londres_r2c2,earth_londres,Londres,controle,,mars_001_r2c2
+10,1,earth_nova_york_r2c2,earth_nova_york,Nova York,controle,,mars_001_r2c2
+10,1,earth_saara_tanezrouft_r2c2,earth_saara_tanezrouft,Saara - Tanezrouft,candidato,,mars_001_r2c2
+10,3,earth_aconcagua_r2c2,earth_aconcagua,Aconcagua,candidato,moon_001_r2c2,
+10,3,earth_denali_r2c2,earth_denali,Denali,candidato,moon_001_r2c2,
+10,3,earth_deserto_de_mojave_r2c2,earth_deserto_de_mojave,Deserto de Mojave,candidato,moon_001_r2c2,
+10,3,earth_everest_r2c2,earth_everest,Everest,candidato,moon_001_r2c2,
+10,3,earth_kilimanjaro_r2c2,earth_kilimanjaro,Kilimanjaro,candidato,moon_001_r2c2,
+10,3,earth_ladakh_r2c2,earth_ladakh,Ladakh,candidato,moon_001_r2c2,
+10,3,earth_licancabur_r2c2,earth_licancabur,Licancabur,candidato,moon_001_r2c2,
+10,3,earth_ojos_del_salado_r2c2,earth_ojos_del_salado,Ojos del Salado,candidato,moon_001_r2c2,
+10,3,earth_svalbard_bockfjorden_r2c2,earth_svalbard_bockfjorden,Svalbard - Bockfjorden,candidato,moon_001_r2c2,
+10,3,earth_teide_r2c2,earth_teide,Teide,candidato,moon_001_r2c2,
+10,3,earth_vale_da_morte_r2c2,earth_vale_da_morte,Vale da Morte,candidato,moon_001_r2c2,
+10,3,earth_vales_secos_de_mcmurdo_r2c2,earth_vales_secos_de_mcmurdo,Vales Secos de McMurdo,candidato,moon_001_r2c2,
+10,3,earth_wadi_rum_r2c2,earth_wadi_rum,Wadi Rum,candidato,moon_001_r2c2,
